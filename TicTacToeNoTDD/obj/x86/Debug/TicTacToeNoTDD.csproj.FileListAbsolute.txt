@@ -1,0 +1,6 @@
+/Users/jnorman/Projects/TicTacToeNoTDD/TicTacToeNoTDD/bin/Debug/TicTacToeNoTDD.exe
+/Users/jnorman/Projects/TicTacToeNoTDD/TicTacToeNoTDD/bin/Debug/TicTacToeNoTDD.pdb
+/Users/jnorman/Projects/TicTacToeNoTDD/TicTacToeNoTDD/obj/x86/Debug/TicTacToeNoTDD.csprojResolveAssemblyReference.cache
+/Users/jnorman/Projects/TicTacToeNoTDD/TicTacToeNoTDD/obj/x86/Debug/TicTacToeNoTDD.csproj.CoreCompileInputs.cache
+/Users/jnorman/Projects/TicTacToeNoTDD/TicTacToeNoTDD/obj/x86/Debug/TicTacToeNoTDD.exe
+/Users/jnorman/Projects/TicTacToeNoTDD/TicTacToeNoTDD/obj/x86/Debug/TicTacToeNoTDD.pdb
